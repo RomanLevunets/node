@@ -10,4 +10,4 @@ myEmit.emit('some_event', 'event test string');
 
 module.exports = {
     myEmit: myEmit
-}
+};
